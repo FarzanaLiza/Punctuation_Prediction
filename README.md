@@ -11,7 +11,7 @@ What are the punctuations: We will predict the following seven punctuations.
 4. Comma, 
 5. Colon,
 6. Semicolon,
-7. Hyphen 
+7. Hyphen <br>
 
 **Proposing a new training dataset:**
 I aim to find a novel dataset to train the model that was not previously used for punctuation prediction. I am proposing the TED Talk en dataset, which is a collection of over 4,000 TED talks, including scripts in many languages. I am using only the English version. The dataset was created by Miguel Corral Jr. and is available on Kaggle (ref: *). 
